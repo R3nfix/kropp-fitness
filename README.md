@@ -1,2 +1,2 @@
 # kropp-fitness
-Kropp Fintess Site
+Kropp Fitness Site
