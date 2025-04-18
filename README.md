@@ -1,2 +1,2 @@
 # Kropp-Fitness
-Kropp Fitness Site
+Kropp Fitness Site - это адаптивный сайт про фитнес
